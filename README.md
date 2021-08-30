@@ -17,3 +17,4 @@ Steps:
 
 10. Second feature branch -->
 11. This is an automated Deployment Test --> using 4th Branch --> 
+12. To test simple maven project is getting Autodeployed.
